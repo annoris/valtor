@@ -1,0 +1,7 @@
+# Official Funding & Commercial Sponsorship Configuration
+# VALTOR — V9 Aquila Digital Flagship (VALTOR Automobiles S.A.)
+# Official Solana (SOL / SPL USDC) Treasury Wallet: 3HvUMCUSSHEdtA35UuD4J7mbgpTxJ7LgT2X7GfdzvBdm
+
+custom:
+  - "https://solscan.io/account/3HvUMCUSSHEdtA35UuD4J7mbgpTxJ7LgT2X7GfdzvBdm"
+  - "https://explorer.solana.com/address/3HvUMCUSSHEdtA35UuD4J7mbgpTxJ7LgT2X7GfdzvBdm"
