@@ -1,0 +1,37 @@
+<svg viewBox="0 0 180 180" width="180" height="180" fill="none" xmlns="http://www.w3.org/2000/svg" aria-label="VALTOR Automobiles S.A. Heritage Crest" role="img">
+  <rect width="180" height="180" rx="16" fill="#0A0A0A"/>
+  <circle cx="90" cy="90" r="80" stroke="#FFFFFF" stroke-width="1.1" opacity="0.28" />
+  <circle cx="90" cy="90" r="72" stroke="#FFFFFF" stroke-width="1" stroke-dasharray="2 5" opacity="0.4" />
+  <!-- Aviation Propeller / Turbine Axis -->
+  <path
+    d="M90 18 L94 74 L90 90 L86 74 Z M90 162 L86 106 L90 90 L94 106 Z M22 90 L74 86 L90 90 L74 94 Z M158 90 L106 94 L90 90 L106 86 Z"
+    stroke="#FFFFFF"
+    stroke-width="1.15"
+    opacity="0.24"
+  />
+  <circle cx="90" cy="90" r="5" stroke="#FFFFFF" stroke-width="1.2" opacity="0.35" />
+  <!-- Tilted Calligraphic VALTOR Wordmark centered across crest -->
+  <g transform="translate(8, 69) scale(0.68) rotate(-8 120 27)">
+    <g transform="skewX(-12) translate(14, 0)">
+      <path d="M12 12 C16 24 22 38 26 44 C31 35 40 20 48 10" stroke="#FFFFFF" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M52 44 C58 30 65 18 71 10 C75 21 79 33 83 44 M57 32 C64 30 72 30 79 30" stroke="#FFFFFF" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M97 10 C95 23 93 34 92 43 C100 43 108 42 115 41" stroke="#FFFFFF" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M119 12 C131 11 143 11 153 10 M136 11 C134 23 132 34 131 44" stroke="#FFFFFF" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M172 11 C159 12 151 22 151 32 C151 41 159 45 169 44 C180 43 188 34 188 23 C188 14 181 10 172 11 Z" stroke="#FFFFFF" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M198 44 C200 32 202 21 204 11 C214 10 225 12 225 20 C225 27 216 30 205 30 C212 34 218 40 227 44" stroke="#FFFFFF" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round" />
+    </g>
+  </g>
+  <!-- Subtle Founding Year -->
+  <text
+    x="90"
+    y="148"
+    text-anchor="middle"
+    fill="#FFFFFF"
+    font-family="sans-serif"
+    font-size="10"
+    letter-spacing="2.4"
+    opacity="0.7"
+  >
+    GENEVA · 1896
+  </text>
+</svg>

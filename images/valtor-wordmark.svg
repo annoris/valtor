@@ -1,0 +1,11 @@
+<svg viewBox="0 0 240 54" width="240" height="54" fill="none" xmlns="http://www.w3.org/2000/svg" aria-label="VALTOR" role="img">
+  <g transform="skewX(-12) translate(14, 0)">
+    <path d="M12 12 C16 24 22 38 26 44 C31 35 40 20 48 10" stroke="#B8BDC0" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M52 44 C58 30 65 18 71 10 C75 21 79 33 83 44 M57 32 C64 30 72 30 79 30" stroke="#B8BDC0" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M97 10 C95 23 93 34 92 43 C100 43 108 42 115 41" stroke="#B8BDC0" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M119 12 C131 11 143 11 153 10 M136 11 C134 23 132 34 131 44" stroke="#B8BDC0" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M172 11 C159 12 151 22 151 32 C151 41 159 45 169 44 C180 43 188 34 188 23 C188 14 181 10 172 11 Z" stroke="#B8BDC0" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M198 44 C200 32 202 21 204 11 C214 10 225 12 225 20 C225 27 216 30 205 30 C212 34 218 40 227 44" stroke="#B8BDC0" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M28 50 C88 47 166 47 224 49" stroke="#B8BDC0" stroke-width="1.2" stroke-linecap="round" opacity="0.72" />
+  </g>
+</svg>
