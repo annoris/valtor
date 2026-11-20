@@ -1,0 +1,78 @@
+VALTOR COMMERCIAL & SPONSORWARE SOURCE-GATED LICENSE
+Version 2.0 — On-Chain Solana Treasury Edition
+
+Copyright (c) 2026 VALTOR Automobiles S.A. & Maison Nord Digital Atelier.
+All rights reserved.
+
+================================================================================
+1. PUBLIC SHOWCASE VS. PROTECTED SOURCE VAULT ARCHITECTURE
+================================================================================
+
+This public repository (`https://github.com/annoris/valtor`) operates strictly
+as an **Official Architecture Showcase, Technical Specification & Live
+Demonstration** for the **VALTOR — V9 Aquila Digital Flagship**.
+
+The complete, editable production source code—including the unminified modular
+ES2022+ `src/` architecture, custom dependency-free `SplitText` engine, Lenis +
+GSAP `ScrollTrigger` choreography controllers, bespoke SVG monogram kits, and
+high-resolution raw studio assets—is housed in the private commercial vault
+repository:
+
+  Private Source Vault: `https://github.com/annoris/valtor-pro-source`
+
+Access to the full editable source code in `annoris/valtor-pro-source` is
+exclusively unlocked for verified contributors, studio licensees, and enterprise
+patrons who settle their contribution or license fee on-chain via the official
+Solana (SOL / SPL-USDC) treasury wallet:
+
+  Official Solana Treasury Wallet:
+  3HvUMCUSSHEdtA35UuD4J7mbgpTxJ7LgT2X7GfdzvBdm
+
+================================================================================
+2. STRICT PROHIBITION OF UNAUTHORIZED SCRAPING, CLONING & REDISTRIBUTION
+================================================================================
+
+Without an active Commercial License or verified on-chain Solana sponsorship
+transaction signature (`tx signature`) settled to
+`3HvUMCUSSHEdtA35UuD4J7mbgpTxJ7LgT2X7GfdzvBdm`, you are strictly prohibited
+from:
+
+  (a) Scraping, reverse-engineering, de-minifying, or extracting compiled
+      production bundles, stylesheets, motion timelines, or bespoke photographic
+      assets from the live demonstration or public showcase repository;
+  (b) Cloning, redistributing, sub-licensing, reselling, or publishing copies or
+      derivatives of the VALTOR Digital Flagship architecture in any public or
+      private repository, template marketplace, or commercial client engagement;
+  (c) Utilizing the "VALTOR", "VALTOR Automobiles S.A.", "VALTOR V9 Aquila", or
+      "ULTRA FINES INGENII" trademarks, brand emblems, or proprietary visual
+      media without written authorization.
+
+================================================================================
+3. COMMERCIAL & SPONSORWARE LICENSE GRANT (VERIFIED SOLANA CONTRIBUTORS)
+================================================================================
+
+Upon confirmed on-chain settlement of the applicable sponsorship or commercial
+license tier to `3HvUMCUSSHEdtA35UuD4J7mbgpTxJ7LgT2X7GfdzvBdm` (as detailed in
+`PAYMENT.md` and `SPONSORS.md`) and verification via a **Solana Source Unlock
+Request** issue on `https://github.com/annoris/valtor/issues`:
+
+  (a) The verified contributor/licensee is granted direct collaborator read/clone
+      access to the private source repository (`annoris/valtor-pro-source`);
+  (b) The licensee is granted a non-exclusive, worldwide, perpetual license to
+      modify, customize, and deploy the unminified `src/` architecture in
+      accordance with their selected tier (Individual Backer, Studio / Agency
+      White-Label License, or Enterprise Marque Flagship License);
+  (c) The contributor's Solscan Transaction Signature (`tx signature`) serves as
+      the immutable cryptographic proof of license ownership.
+
+================================================================================
+4. DISCLAIMER OF WARRANTY & LIMITATION OF LIABILITY
+================================================================================
+
+THE SOFTWARE, ARCHITECTURE SHOWCASE, AND PRIVATE SOURCE VAULT ARE PROVIDED "AS
+IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED
+TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS, COPYRIGHT HOLDERS, OR VALTOR
+AUTOMOBILES S.A. BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN
+AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
