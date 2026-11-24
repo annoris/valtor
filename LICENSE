@@ -1,41 +1,33 @@
-VALTOR COMMERCIAL & SPONSORWARE SOURCE-GATED LICENSE
-Version 2.0 — On-Chain Solana Treasury Edition
+VALTOR PROPRIETARY SOFTWARE & PUBLIC SHOWCASE LICENSE (ALL RIGHTS RESERVED)
 
 Copyright (c) 2026 VALTOR Automobiles S.A. & Maison Nord Digital Atelier.
 All rights reserved.
 
 ================================================================================
-1. PUBLIC SHOWCASE VS. PROTECTED SOURCE VAULT ARCHITECTURE
+1. PUBLIC SHOWCASE & PROPRIETARY SOURCE CODE OWNERSHIP
 ================================================================================
 
 This public repository (`https://github.com/annoris/valtor`) operates strictly
 as an **Official Architecture Showcase, Technical Specification & Live
-Demonstration** for the **VALTOR — V9 Aquila Digital Flagship**.
+Demonstration** for the **VALTOR — V9 Aquila Digital Flagship**
+(`https://annoris.github.io/valtor/`).
 
-The complete, editable production source code—including the unminified modular
-ES2022+ `src/` architecture, custom dependency-free `SplitText` engine, Lenis +
-GSAP `ScrollTrigger` choreography controllers, bespoke SVG monogram kits, and
-high-resolution raw studio assets—is housed in the private commercial vault
-repository:
+Permission is granted, free of charge, to view and evaluate the public
+architectural documentation and live interactive demonstration for personal,
+non-commercial viewing and evaluation purposes only.
 
-  Private Source Vault: `https://github.com/annoris/valtor-pro-source`
-
-Access to the full editable source code in `annoris/valtor-pro-source` is
-exclusively unlocked for verified contributors, studio licensees, and enterprise
-patrons who settle their contribution or license fee on-chain via the official
-Solana (SOL / SPL-USDC) treasury wallet:
-
-  Official Solana Treasury Wallet:
-  3HvUMCUSSHEdtA35UuD4J7mbgpTxJ7LgT2X7GfdzvBdm
+The complete production source code—including the modular ES2022+ `src/`
+architecture, custom dependency-free `SplitText` engine, Lenis + GSAP
+`ScrollTrigger` choreography controllers, bespoke SVG monogram kits, and
+high-resolution raw studio assets—is proprietary intellectual property of
+VALTOR Automobiles S.A. & Maison Nord Digital Atelier. All rights are reserved.
 
 ================================================================================
 2. STRICT PROHIBITION OF UNAUTHORIZED SCRAPING, CLONING & REDISTRIBUTION
 ================================================================================
 
-Without an active Commercial License or verified on-chain Solana sponsorship
-transaction signature (`tx signature`) settled to
-`3HvUMCUSSHEdtA35UuD4J7mbgpTxJ7LgT2X7GfdzvBdm`, you are strictly prohibited
-from:
+Without prior express written permission or a direct Commercial License
+agreement executed with the author, you are strictly prohibited from:
 
   (a) Scraping, reverse-engineering, de-minifying, or extracting compiled
       production bundles, stylesheets, motion timelines, or bespoke photographic
@@ -48,31 +40,22 @@ from:
       media without written authorization.
 
 ================================================================================
-3. COMMERCIAL & SPONSORWARE LICENSE GRANT (VERIFIED SOLANA CONTRIBUTORS)
+3. COMMERCIAL LICENSING
 ================================================================================
 
-Upon confirmed on-chain settlement of the applicable sponsorship or commercial
-license tier to `3HvUMCUSSHEdtA35UuD4J7mbgpTxJ7LgT2X7GfdzvBdm` (as detailed in
-`PAYMENT.md` and `SPONSORS.md`) and verification via a **Solana Source Unlock
-Request** issue on `https://github.com/annoris/valtor/issues`:
-
-  (a) The verified contributor/licensee is granted direct collaborator read/clone
-      access to the private source repository (`annoris/valtor-pro-source`);
-  (b) The licensee is granted a non-exclusive, worldwide, perpetual license to
-      modify, customize, and deploy the unminified `src/` architecture in
-      accordance with their selected tier (Individual Backer, Studio / Agency
-      White-Label License, or Enterprise Marque Flagship License);
-  (c) The contributor's Solscan Transaction Signature (`tx signature`) serves as
-      the immutable cryptographic proof of license ownership.
+Commercial licensing, white-label agency usage, enterprise deployments, and
+custom adaptation rights are granted exclusively through a direct written
+agreement with the author. Voluntary sponsorships or donations do not grant
+source code access or commercial usage rights.
 
 ================================================================================
 4. DISCLAIMER OF WARRANTY & LIMITATION OF LIABILITY
 ================================================================================
 
-THE SOFTWARE, ARCHITECTURE SHOWCASE, AND PRIVATE SOURCE VAULT ARE PROVIDED "AS
-IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED
-TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
-NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS, COPYRIGHT HOLDERS, OR VALTOR
-AUTOMOBILES S.A. BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN
-AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
-WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+THE SOFTWARE AND ARCHITECTURE SHOWCASE ARE PROVIDED "AS IS", WITHOUT WARRANTY
+OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO
+EVENT SHALL THE AUTHORS, COPYRIGHT HOLDERS, OR VALTOR AUTOMOBILES S.A. BE LIABLE
+FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
+TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR
+THE USE OR OTHER DEALINGS IN THE SOFTWARE.

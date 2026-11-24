@@ -22,7 +22,7 @@ This project is a purely client-side static frontend showcase built with **Vanil
   ```text
   3HvUMCUSSHEdtA35UuD4J7mbgpTxJ7LgT2X7GfdzvBdm
   ```
-  Always verify this exact address in [`PAYMENT.md`](../PAYMENT.md), [`SPONSORS.md`](../SPONSORS.md), and [`.github/FUNDING.yml`](./FUNDING.yml) before executing any on-chain transaction.
+  Always verify this exact address in [`SPONSORS.md`](../SPONSORS.md) and [`.github/FUNDING.yml`](./FUNDING.yml) before executing any on-chain transaction.
 
 ---
 

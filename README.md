@@ -24,8 +24,8 @@
   <a href="https://gsap.com/"><img src="https://img.shields.io/badge/GSAP_3.15-ScrollTrigger_Choreography-88CE02?style=for-the-badge&logo=greensock&logoColor=black" alt="GSAP 3.15" /></a>
   <a href="https://lenis.darkroom.engineering/"><img src="https://img.shields.io/badge/Lenis_1.3-60FPS_Inertial_Scroll-000000?style=for-the-badge" alt="Lenis Smooth Scroll" /></a>
   <a href="https://bun.sh/"><img src="https://img.shields.io/badge/Bun-Native_Runtime-FBF0DF?style=for-the-badge&logo=bun&logoColor=black" alt="Bun Runtime" /></a>
-  <a href="#-solana-web3-payment-commercial-licensing--sponsorship"><img src="https://img.shields.io/badge/Solana-Web3_Ready-14F195?style=for-the-badge&logo=solana&logoColor=black" alt="Solana Web3 Ready" /></a>
-  <a href="./LICENSE"><img src="https://img.shields.io/badge/License-MIT-101010?style=for-the-badge" alt="MIT License" /></a>
+  <a href="#-solana-sponsorship--commercial-licensing"><img src="https://img.shields.io/badge/Solana-Web3_Ready-14F195?style=for-the-badge&logo=solana&logoColor=black" alt="Solana Web3 Ready" /></a>
+  <a href="./LICENSE"><img src="https://img.shields.io/badge/License-Proprietary_%7C_All_Rights_Reserved-101010?style=for-the-badge" alt="Proprietary License" /></a>
 </p>
 
 <!-- Viral Social Share Triggers -->
@@ -33,7 +33,7 @@
   <a href="https://twitter.com/intent/tweet?text=Check%20out%20VALTOR%20V9%20Aquila%20%E2%80%94%20an%20editorial%20Swiss%20luxury%20automotive%20flagship%20built%20with%20GSAP%20ScrollTrigger%2C%20Lenis%20smooth%20scroll%2C%20and%20zero%20UI%20frameworks!&url=https%3A%2F%2Fgithub.com%2Fannoris%2Fvaltor"><img src="https://img.shields.io/badge/Share_on_X-000000?style=flat-square&logo=x&logoColor=white" alt="Share on X" /></a>
   <a href="https://www.linkedin.com/sharing/share-offsite/?url=https://github.com/annoris/valtor"><img src="https://img.shields.io/badge/Share_on_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Share on LinkedIn" /></a>
   <a href="https://reddit.com/submit?url=https://github.com/annoris/valtor&title=VALTOR%20V9%20Aquila%20%E2%80%94%2060fps%20GSAP%20%2B%20Lenis%20Luxury%20Automotive%20Flagship"><img src="https://img.shields.io/badge/Share_on_Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white" alt="Share on Reddit" /></a>
-  <a href="#-solana-web3-payment-commercial-licensing--sponsorship"><img src="https://img.shields.io/badge/Sponsor_via_Solana-9945FF?style=flat-square&logo=solana&logoColor=white" alt="Sponsor via Solana" /></a>
+  <a href="#-solana-sponsorship--commercial-licensing"><img src="https://img.shields.io/badge/Sponsor_via_Solana-9945FF?style=flat-square&logo=solana&logoColor=white" alt="Sponsor via Solana" /></a>
 </p>
 
 <br />
@@ -63,7 +63,7 @@
 Built with **100% pure modular ES Modules**, **GSAP 3.15 + ScrollTrigger**, **Lenis 1.3 inertial scrolling**, and a **custom zero-dependency `SplitText` typographic engine**, this repository proves that ultra-luxury editorial choreography, 3-layer spatial parallax, interactive inline cinema players, and multi-axis archival collages can run at a locked **60 FPS** with **zero bloated UI frameworks**.
 
 > [!TIP]
-> **Love this architecture?** Hit the **★ Star** button at the top-right of this repository to bookmark the motion engine patterns and support open-source creative engineering!
+> **Love this architecture?** Hit the **★ Star** button at the top-right of this repository to bookmark the motion engine showcase and support creative engineering!
 
 ---
 
@@ -80,8 +80,8 @@ Built with **100% pure modular ES Modules**, **GSAP 3.15 + ScrollTrigger**, **Le
    - [07 · Full-Bleed Cockpit Newsletter Capture & Navigation Overlay](#07--full-bleed-cockpit-newsletter-capture--navigation-overlay)
 3. [Motion Engine & System Architecture](#-motion-engine--system-architecture)
 4. [Design System & Swiss Typographic Tokens](#-design-system--swiss-typographic-tokens)
-5. [Quick Start & Zero-Docker Local Development](#-quick-start--zero-docker-local-development)
-6. [Solana Web3 Payment, Commercial Licensing & Sponsorship](#-solana-web3-payment-commercial-licensing--sponsorship)
+5. [Live Interactive Flagship & Architecture Overview](#-live-interactive-flagship--architecture-overview)
+6. [Solana Sponsorship & Commercial Licensing](#-solana-sponsorship--commercial-licensing)
 7. [Roadmap & Contribution Guidelines](#-roadmap--contribution-guidelines)
 
 ---
@@ -108,7 +108,7 @@ Every single visual asset in this repository is bespoke-curated and stored in [`
 
 ### 01 · Preloader & Hero Flagship Stage
 
-**Components (Private Vault — [Unlock Source](./SOURCE_ACCESS.md)):** `src/components/preloader.js` · `src/components/header.js` · `src/components/hero.js` · `src/animations/preloader.js`
+**Components:** `src/components/preloader.js` · `src/components/header.js` · `src/components/hero.js` · `src/animations/preloader.js`
 
 <div align="center">
   <img src="./public/images/hero-v9-aquila.jpg" alt="VALTOR V9 Aquila Hero Stage" width="100%" />
@@ -124,7 +124,7 @@ Every single visual asset in this repository is bespoke-curated and stored in [`
 
 ### 02 · Editorial Intro & 3-Layer Parallax Craft Gallery
 
-**Components (Private Vault — [Unlock Source](./SOURCE_ACCESS.md)):** `src/components/editorialIntro.js` · `src/components/gallery.js` · `src/animations/scrollTriggers.js`
+**Components:** `src/components/editorialIntro.js` · `src/components/gallery.js` · `src/animations/scrollTriggers.js`
 
 Following the hero, the **Editorial Intro** (`PURE DEVOTION`) introduces the V9 Aquila commissioning philosophy using scroll-scrubbed line opacity (`[data-scrub-lines]`), transitioning directly into an asymmetric 12-column **3-Layer Parallax Craft Gallery**:
 
@@ -175,7 +175,7 @@ Each gallery card uses three concentric DOM layers (`[data-parallax-media-shift]
 
 ### 03 · Clip-Path Dark Feature Film & Inline Kinetic Cinema Player
 
-**Components (Private Vault — [Unlock Source](./SOURCE_ACCESS.md)):** `src/components/darkFeature.js` · `src/components/uiController.js`
+**Components:** `src/components/darkFeature.js` · `src/components/uiController.js`
 
 <div align="center">
   <img src="./public/images/feature-obsidian-profile.jpg" alt="VALTOR V9 Aquila — ULTRA FINES INGENII Dark Feature Film Stage" width="100%" />
@@ -190,7 +190,7 @@ Each gallery card uses three concentric DOM layers (`[data-parallax-media-shift]
 
 ### 04 · Dual-Axis Heritage Archival Collage (1896 – 1962)
 
-**Components (Private Vault — [Unlock Source](./SOURCE_ACCESS.md)):** `src/components/heritage.js` · `src/animations/heritageParallax.js`
+**Components:** `src/components/heritage.js` · `src/animations/heritageParallax.js`
 
 The **Heritage Section** (`SINCE 1896 — A CENTURY OF AVIATION & COACHWORK`) surrounds a centered foreground narrative stack with **7 floating archival collage tiles** derived from 4 museum-grade historical and tactile assets:
 
@@ -252,7 +252,7 @@ To prevent GSAP scroll transforms and mouse-move transforms from overwriting eac
 
 ### 05 · Split-Screen Boutique Carousel & Shopping Bag Drawer
 
-**Components (Private Vault — [Unlock Source](./SOURCE_ACCESS.md)):** `src/components/boutique.js` · `src/components/drawers.js` · `src/animations/interactions.js`
+**Components:** `src/components/boutique.js` · `src/components/drawers.js` · `src/animations/interactions.js`
 
 The **Boutique Section** (`OBJECTS OF ENDURING CRAFT`) pairs an archival monochrome backdrop (`./public/images/heritage-1924-aviation.jpg`) with a floating white product card that cycles through **4 bespoke collector editions** synchronized with a `143px` 1px progress indicator and a live **Shopping Bag Drawer**:
 
@@ -313,7 +313,7 @@ The **Boutique Section** (`OBJECTS OF ENDURING CRAFT`) pairs an archival monochr
 
 ### 06 · Partnerships & News Editorial Grid
 
-**Component (Private Vault — [Unlock Source](./SOURCE_ACCESS.md)):** `src/components/news.js`
+**Component:** `src/components/news.js`
 
 The **Partnerships & News** section presents a 3-column Swiss editorial grid on desktop (and a touch-friendly horizontal snap-slider on mobile viewports) highlighting key dispatches from the Meyrin atelier:
 
@@ -358,7 +358,7 @@ The **Partnerships & News** section presents a 3-column Swiss editorial grid on 
 
 ### 07 · Full-Bleed Cockpit Newsletter Capture & Navigation Overlay
 
-**Components (Private Vault — [Unlock Source](./SOURCE_ACCESS.md)):** `src/components/newsletter.js` · `src/components/drawers.js` · `src/components/footer.js`
+**Components:** `src/components/newsletter.js` · `src/components/drawers.js` · `src/components/footer.js`
 
 <div align="center">
   <img src="./public/images/newsletter-cockpit.jpg" alt="VALTOR V9 Aquila Hand-Stitched Cognac Saddle Leather and Milled Titanium Cockpit" width="100%" />
@@ -423,7 +423,7 @@ flowchart TD
 
 ## 🎨 Design System & Swiss Typographic Tokens
 
-Defined in `src/styles/tokens.css` ([Private Source Vault](./SOURCE_ACCESS.md)) and documented in [`docs/BRAND_SPEC.md`](./docs/BRAND_SPEC.md), the visual system enforces a strict monochrome architectural palette so the warm metallic and saddle-leather photography commands total visual authority.
+Defined in `src/styles/tokens.css` and documented in [`docs/BRAND_SPEC.md`](./docs/BRAND_SPEC.md), the visual system enforces a strict monochrome architectural palette so the warm metallic and saddle-leather photography commands total visual authority.
 
 | Token Category | CSS Custom Property | Value | Role |
 | :--- | :--- | :--- | :--- |
@@ -440,63 +440,28 @@ Defined in `src/styles/tokens.css` ([Private Source Vault](./SOURCE_ACCESS.md)) 
 
 ---
 
-## 🚀 Quick Start & Zero-Docker Local Development
+## 🚀 Live Interactive Flagship & Architecture Overview
 
 > [!IMPORTANT]
-> **Solana-Gated Sponsorware Architecture (`annoris/valtor-pro-source`):**
-> - **Live Flagship Showcase:** Anyone can explore the live 60fps production flagship at **[https://annoris.github.io/valtor/](https://annoris.github.io/valtor/)** and inspect all 15 visual sections, design tokens, and architectural blueprints right here in this public showcase repository.
-> - **Full Editable Source Code Vault:** The complete, unminified, editable source code (`src/animations/`, `src/components/`, `src/data/`, `src/styles/`, `src/main.js`, `index.html`, `vite.config.js`, and `package.json`) is hosted inside the **Private Source Vault (`annoris/valtor-pro-source`)** and unlocked immediately upon contributing via **Solana Mainnet (`3HvUMCUSSHEdtA35UuD4J7mbgpTxJ7LgT2X7GfdzvBdm`)** and submitting a **[🔓 Solana Source Code Unlock Request](https://github.com/annoris/valtor/issues/new?template=source_unlock_request.md)**. See [`SOURCE_ACCESS.md`](./SOURCE_ACCESS.md) and [`PAYMENT.md`](./PAYMENT.md) for instant unlock instructions.
+> **Proprietary Showcase Repository (`All Rights Reserved`):**
+> - **Live Flagship Showcase:** Experience the live 60fps production flagship at **[https://annoris.github.io/valtor/](https://annoris.github.io/valtor/)** and inspect all 15 visual assets, design tokens, and architectural blueprints right here in this public showcase repository.
+> - **Proprietary Source Code:** The complete production source code (`src/animations/`, `src/components/`, `src/data/`, `src/styles/`, `src/main.js`, `index.html`, `vite.config.js`, and `package.json`) is proprietary intellectual property (**All Rights Reserved**). Unauthorized scraping, reverse-engineering, cloning, or redistribution is strictly prohibited.
+> - **Commercial Licensing:** For agency white-label licensing, enterprise deployments, or custom flagship adaptations, please contact the author directly. See [`LICENSE`](./LICENSE).
 
-Once your GitHub account has been granted access to **`annoris/valtor-pro-source`**, VALTOR runs natively in milliseconds with **Bun** (recommended) or **Node.js / npm** — zero Docker containers, zero database setup, and zero environment variable configuration required.
+### Technical Stack Summary (Licensed Build)
 
-### 1. Clone the Private Source Vault & Install
-
-```bash
-# Clone the full editable source vault (after Solana unlock verification)
-git clone https://github.com/annoris/valtor-pro-source.git
-cd valtor-pro-source
-
-# Install dependencies with Bun (Recommended)
-bun install
-
-# Or with npm
-npm install
-```
-
-### 2. Start the Development Server
-
-```bash
-# With Bun
-bun run dev
-
-# Or with npm
-npm run dev
-```
-
-Open **`http://localhost:5173`** in your browser to experience the 60fps GSAP + Lenis flagship showcase locally.
-
-### 3. Build & Preview Production Bundle
-
-```bash
-# Build optimized static bundle into dist/
-bun run build
-
-# Preview production build locally
-bun run preview
-```
-
-> [!NOTE]
-> `vite.config.js` (included in the private vault) is preconfigured with `base: './'`, ensuring that all 13 photographic assets and font imports resolve cleanly whether deployed to a custom root domain (`https://valtorautomobiles.com`) or a GitHub Pages repository subpath (`https://annoris.github.io/valtor/`).
+- **Runtime & Bundler:** Native **Bun** / **Vite 8** with relative `base: './'` portability (zero Docker containers, zero database setup).
+- **Motion Stack:** **GSAP 3.15 + ScrollTrigger**, **Lenis 1.3** synchronized to `gsap.ticker`, and a custom dependency-free `SplitText` engine.
 
 ---
 
-## 💎 Solana Web3 Payment, Commercial Licensing & Sponsorship
+## 💎 Solana Sponsorship & Commercial Licensing
 
-Supporting open-source luxury creative engineering, unlocking the private source vault (`annoris/valtor-pro-source`), or acquiring commercial white-label rights can be settled in seconds simply by scanning our official **Receive SOL** QR code below.
+If you would like to **voluntarily sponsor** ongoing luxury creative engineering and showcase maintenance, you can contribute in seconds by scanning our official **Receive SOL** QR code below.
 
 <div align="center">
 
-### Scan to Pay with Any Solana Wallet (`SOL`)
+### Scan to Sponsor with Any Solana Wallet (`SOL`)
 
 <p>
   <img src="https://img.shields.io/badge/Network-Solana_Mainnet--Beta-14F195?style=for-the-badge&logo=solana&logoColor=black" alt="Solana Mainnet" />
@@ -514,23 +479,12 @@ Supporting open-source luxury creative engineering, unlocking the private source
 3HvUMCUSSHEdtA35UuD4J7mbgpTxJ7LgT2X7GfdzvBdm
 ```
 
-<sub><strong>1-Step Payment:</strong> Scan the QR code above with Phantom, Solflare, Backpack, Coinbase, Binance, or Trust Wallet (or copy the Solana address above) to send <strong>SOL</strong> directly.</sub>
+<sub><strong>Voluntary Sponsorship:</strong> Scan the QR code above with Phantom, Solflare, Backpack, Coinbase, Binance, or Trust Wallet (or copy the Solana address above) to send <strong>SOL</strong> or <strong>USDC (SPL)</strong>.</sub>
 
 </div>
 
-### Sponsorship & Commercial Licensing Tiers
-
-| Tier | Contribution (`SOL` / `USDC` Equivalent) | Deliverables & Benefits |
-| :--- | :--- | :--- |
-| **⚡ Atelier Supporter** | `0.25 SOL` (~$50) | Listed in the **Hall of Patrons** in this `README.md` + priority GitHub issue triage. |
-| **🏎️ Bespoke Studio License** | `1.50 SOL` (~$300) | Commercial agency & studio license for client projects + priority feature requests. |
-| **🦅 Geneva Concierge Partner** | `5.00 SOL` (~$1,000+) | Custom brand adaptation, bespoke GSAP ScrollTrigger choreography consulting, and dedicated co-branding. |
-
-#### How to Verify Your Solana Transaction:
-1. Send your contribution in **SOL** or **USDC (SPL)** on **Solana Mainnet-Beta** to:
-   `3HvUMCUSSHEdtA35UuD4J7mbgpTxJ7LgT2X7GfdzvBdm`
-2. Copy your **Solscan / Solana Explorer Transaction Signature**.
-3. Open a GitHub Issue or contact the studio with your transaction hash to activate your sponsorship badge or commercial license.
+> [!NOTE]
+> Voluntary sponsorships support ongoing R&D and showcase maintenance; they do not grant proprietary source code access or commercial usage rights. Commercial white-label licensing is granted exclusively via direct written agreement with the author (see [`LICENSE`](./LICENSE) and [`SPONSORS.md`](./SPONSORS.md)).
 
 ---
 
@@ -548,12 +502,8 @@ flowchart LR
 - [ ] **Phase 3:** Direct **Solana Pay** QR modal inside the Boutique Shopping Bag drawer for instant on-chain collector edition checkout (`3HvUMCUSSHEdtA35UuD4J7mbgpTxJ7LgT2X7GfdzvBdm`).
 - [ ] **Phase 4:** Multilingual Swiss localization (`EN`, `FR`, `DE`, `IT`) with persistent locale switching.
 
-### Contributing
-Contributions, performance optimizations, and motion refinements are welcome! See our full [Contribution Guidelines](./.github/CONTRIBUTING.md), [Code of Conduct](./.github/CODE_OF_CONDUCT.md), [Security Policy](./.github/SECURITY.md), [Source Code Unlock Guide](./SOURCE_ACCESS.md), [Commercial Licensing & Payment Guide](./PAYMENT.md), and [Hall of Patrons](./SPONSORS.md).
-1. Fork this repository.
-2. Create a feature branch (`git checkout -b feat/atelier-enhancement`).
-3. Commit your changes (`git commit -m "feat: refine parallax easing curve"`).
-4. Push to your branch and open a Pull Request.
+### Contributing & Governance
+Feedback, bug reports, and security disclosures are welcome. See our [Contribution Guidelines](./.github/CONTRIBUTING.md), [Code of Conduct](./.github/CODE_OF_CONDUCT.md), [Security Policy](./.github/SECURITY.md), [License](./LICENSE), and [Hall of Patrons](./SPONSORS.md).
 
 ---
 
@@ -565,7 +515,7 @@ Contributions, performance optimizations, and motion refinements are welcome! Se
 
 <p>
   <strong>VALTOR Automobiles S.A.</strong> · Route de l'Aéroport 42, 1215 Meyrin, Geneva, Switzerland<br />
-  <sub>MIT License © 2026 VALTOR Automobiles S.A. · Atelier Digital by Maison Nord</sub>
+  <sub>Proprietary License · All Rights Reserved © 2026 VALTOR Automobiles S.A. · Atelier Digital by Maison Nord</sub>
 </p>
 
 </div>

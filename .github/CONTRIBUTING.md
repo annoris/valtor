@@ -64,10 +64,10 @@ Verify the following in a headless or desktop browser:
 1. **Fork & Branch:** Create a descriptive feature or bugfix branch from `main` (e.g., `feat/parallax-touch-tuning` or `fix/split-text-resize`).
 2. **Atomic Commits:** Use clear, conventional commit messages (`feat:`, `fix:`, `perf:`, `docs:`, `style:`).
 3. **Document Visual Changes:** If your PR modifies UI layout, typography, or scroll choreography, include before/after screenshots or a screen recording in the PR description.
-4. **Commercial & Sponsorship Alignment:** Contributions submitted to this repository are licensed under the repository's [MIT License](../LICENSE).
+4. **Licensing Alignment:** Contributions submitted to this repository are governed by the repository's [Proprietary License](../LICENSE) (**All Rights Reserved**).
 
 ---
 
 ## 5. Supporting the Project
 
-If your studio or organization uses this architecture in commercial client work, consider sponsoring ongoing development or purchasing a Commercial White-Label License via **Solana (`3HvUMCUSSHEdtA35UuD4J7mbgpTxJ7LgT2X7GfdzvBdm`)**. Full details are available in [`PAYMENT.md`](../PAYMENT.md) and [`SPONSORS.md`](../SPONSORS.md).
+If you would like to voluntarily sponsor ongoing motion engineering research and showcase maintenance, you may contribute via **Solana (`3HvUMCUSSHEdtA35UuD4J7mbgpTxJ7LgT2X7GfdzvBdm`)**. Full details are available in [`SPONSORS.md`](../SPONSORS.md). For commercial licensing inquiries, please contact the author directly (see [`LICENSE`](../LICENSE)).
